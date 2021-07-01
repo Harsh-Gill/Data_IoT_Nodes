@@ -1,5 +1,7 @@
 # IoT Weather station Nodes / Asset tracking
 
+(Specific sensitive info. has been removed from code, for info. please feel free to inquire)
+
 This project is initiated for creating IoT based nodes for easily and tracking assets or the weather at a low hardware cost and at a high volume but almost free of cost cloud storage. With convenient analytics as data can be conveniently stored as csv and exported at wanted intervals. It can also provide real-time geolocation information of each node using Googles Location APIs that are called every X seconds. This is optional for converting weather nodes into asset-trackers.
 
 The data is stored into Google cloud. The data is sent by sending an API request to IFTTT which then can store the data into sheets. 
