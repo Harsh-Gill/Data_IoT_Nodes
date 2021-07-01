@@ -1,0 +1,27 @@
+All libraries used:
+
+1) <WiFi.h> & <WiFiClient.h> is used for ESP32-to-internet communication
+2) <BlynkSimpleEsp32.h> is a versatile library that bridges various function between ESP32 to Blynk ( An app interface ) ------ UI interface
+3) <ArduinoJson.h> allows arduino devices to read and write in Json files ------- helps ESP32 to grab current geolocation through Google_Geolocation API
+4) <HTTPClient.h> helps arduino devices to make HTTP request towards the internet ------- helps the excel-ESP32 automation process
+
+
+
+
+Libraies used in set A & B code
+
+<WiFi.h>
+<WiFiClient.h>
+<BlynkSimpleEsp32.h>
+<Wire.h>
+<LSM6.h>
+<Adafruit_Sensor.h>
+<Adafruit_BME280.h>
+
+
+
+Libraies used in Google_Geolocation API code
+
+<ArduinoJson.h>
+<WiFi.h>
+<HTTPClient.h>
