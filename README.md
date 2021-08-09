@@ -13,7 +13,7 @@ There are 2 hardware components; a set A and set B. set A acts as an incoming pr
 
 For future/potential scaling of system, Azure IoTHub connection code has also been tested and executed, the code is in the repo. as well, this allows for much larger volumes of data volume and analysis.
 
-
+---
 For this project
 
 The hardwares used are:
