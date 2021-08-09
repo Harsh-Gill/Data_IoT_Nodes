@@ -1,4 +1,4 @@
-# Data_IoT_Nodes
+
 This project is initiated for creating IoT based nodes for easily and tracking assets or the weather at a low hardware cost and at a high volume
 # IoT Weather station Nodes / Asset tracking
 
