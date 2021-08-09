@@ -1,5 +1,5 @@
 
-This project is initiated for creating IoT based nodes for easily and tracking assets or the weather at a low hardware cost and at a high volume
+This project is initiated for creating IoT based nodes for easily tracking assets or the weather at a low hardware cost and at a high data volume
 # IoT Weather station Nodes / Asset tracking
 
 _Specific sensitive information has been removed from the code. For more information, please feel free to inquire._
